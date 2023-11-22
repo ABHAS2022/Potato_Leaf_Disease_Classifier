@@ -17,7 +17,7 @@ The training and validation curves, as well as other relevant information, can b
 
 - **Loss:** 0.00144
 - **Training Speed:**
-  - Preprocessing: 0.22 seconds
-  - Inference: 2.09 seconds
+- Preprocessing: 0.22 seconds
+- Inference: 2.09 seconds
   - Loss computation: 0.00144 seconds
   - Postprocessing: 0.00137 seconds
